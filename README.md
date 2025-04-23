@@ -1,1 +1,2 @@
-# cw2014
+# 2014 Combinatorics Workshop
+https://cw2014.combinatorics.kr
